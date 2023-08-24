@@ -1,0 +1,193 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.main-nav{
+    height: 70px;
+   
+    display: flex;
+    
+   
+    background-image:url(./back.jpg.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+
+.nav-bar{
+    display: flex;
+    
+    
+}
+.nav-bar h2{
+    color: beige;
+    font-size:  45px;
+ 
+ margin: 10px 10px;
+ padding-left: 12pc;
+
+ 
+}
+.btn{
+    background-color:blue;
+    color: blanchedalmond;
+    text-decoration: none;
+
+ 
+}
+ a.btn{
+    margin: 15px 15px;
+    padding: 10px 51px;
+    color: white;
+   
+}
+.main-container h1{
+    margin-left: 38.5%;
+  margin-top: 60px;
+}
+
+
+.card-1{
+    background-image: url(./back.jpg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+    height: 50vh;
+    width: 20%;
+    display: inline-block;
+   
+
+   padding-top: 10px;
+   margin-left: 16%;
+   
+    margin-top: 25px;
+    text-align: center;
+
+   
+}
+.card-1 p{
+    color:white;
+    margin: 40px;
+    text-align: left;
+    
+    
+
+  
+  
+}
+
+.card-1 h3{
+    color: darkblue;
+   
+}
+.card-1 h4{
+    color: darkgoldenrod;
+}
+.card-1 img{
+    height: 55px;
+    width: 55px;
+    border-radius: 220px;
+    position: absolute;
+   top: 37%;
+   left: 13.8%;
+     border: 3px solid white;
+}
+
+    
+    
+    
+    
+
+
+
+
+.card-2{
+    background-image: url(./back.jpg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+    height: 50vh;
+    width: 20%;
+   
+    display: inline-block;
+   
+    margin-left: 30px;
+    padding-top: 10px;
+    text-align: center;
+  
+    margin-top: 25px;
+   
+    
+}
+    
+
+.card-2 p{
+    color:white;
+    margin: 40px;
+    text-align: left;
+}
+
+.card-2 h3{
+    color: darkblue;
+}
+.card-2 h4{
+    color: darkgoldenrod;
+}
+.card-2 img{
+    height: 55px;
+    width: 55px;
+    border-radius: 220px;
+    position: absolute;
+   top: 37%;
+   left: 36.5%;
+     border: 3px solid white;
+}
+
+
+
+.third{
+    background-image: url(./back.jpg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: white;
+    height: 50vh;
+    width: 20%;
+   position: relative;
+    display: inline-block;
+    margin-left: 30px;
+    text-align: center;
+    padding-top: 10px;
+  
+    margin-top: 25px;
+}
+
+.third p{
+    color:white;
+    margin: 40px;
+    text-align: left;
+}
+
+.third h3{
+    color: darkblue;
+}
+.third h4{
+    color: darkgoldenrod;
+}
+.third img{
+    height: 55px;
+    width: 55px;
+    border-radius: 220px;
+    position: absolute;
+   top:5%;
+   left: -10%;
+   border: 3px solid white;
+}
+
+
+.butn{
+    margin-top: 40px;
+margin-left: 36.5%;
+}
+    
+     
